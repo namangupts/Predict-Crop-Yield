@@ -24,6 +24,8 @@ Upload your dataset CSV
 Run all cells to train the model and evaluate accuracy
 
 Output
-<img width="637" height="577" alt="436045908-0718b421-2b6d-4539-b11c-379302918a85" src="https://github.com/user-attachments/assets/822e80d7-a517-4a0e-b42b-ee093a340e1f" />
+<img width="701" height="471" alt="image" src="https://github.com/user-attachments/assets/15d708fe-0e9b-47d6-b4ee-560e1e6fdfd4" />
 
-<img width="736" height="498" alt="436046112-d867ad29-223a-4188-8732-ac0c54158a37" src="https://github.com/user-attachments/assets/e5101bf0-2c73-4c08-9949-dbef7c8d72fb" />
+
+<img width="498" height="523" alt="Screenshot 2026-09-21 212036" src="https://github.com/user-attachments/assets/5925a9d6-5e63-42c8-8955-aad3fbb24392" />
+
