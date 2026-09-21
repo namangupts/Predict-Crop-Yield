@@ -6,6 +6,7 @@ Predicts yield category (e.g., Low, Medium, High)
 Handles categorical data using label encoding
 Uses Random Forest for robust classification
 Simple, well-commented code — perfect for learning!
+
 🧠 Tech Stack
 Python
 Pandas
@@ -21,6 +22,7 @@ Note: Seed_Type and Yield_Category can be categorical (e.g., "Wheat", "High").
 Clone the repo or open in Google Colab
 Upload your dataset CSV
 Run all cells to train the model and evaluate accuracy
+
 Output
 <img width="637" height="577" alt="436045908-0718b421-2b6d-4539-b11c-379302918a85" src="https://github.com/user-attachments/assets/822e80d7-a517-4a0e-b42b-ee093a340e1f" />
 
